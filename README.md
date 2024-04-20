@@ -21,6 +21,6 @@ The application uses exception handling to deal with situations where the requir
 Please note that this is a simple simulation and does not interact with any real-world coffee making devices.
 
 ---- @..@<br />
---- (----)<br />
--- ( >__< )<br />
--- ^^ ~~ ^^<br />
+---  (----)<br />
+--  ( >__< )<br />
+--  ^^ ~~ ^^<br />
