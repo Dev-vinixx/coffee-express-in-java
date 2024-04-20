@@ -19,3 +19,8 @@ To run the application, you need to have Java 17 installed on your machine. You 
 The application uses exception handling to deal with situations where the required ingredients or equipment are not available. In such cases, a `NoSuchElementException` is thrown with a message that describes the problem.
 
 Please note that this is a simple simulation and does not interact with any real-world coffee making devices.
+
+   @..@
+  (----)
+ ( >__< )
+ ^^ ~~ ^^
